@@ -13,8 +13,8 @@ Salut, je suis Andrew 👋 Bienvenue sur mon GitHub !
 ## Projets  
 Je suis toujours à la recherche de nouveaux défis et de projets intéressants. Voici quelques domaines dans lesquels j'ai travaillé :
 
-Développement Web
-Intelligence Artificielle
+Développement Web  
+Intelligence Artificielle  
 projet de tous les genres
 
 📫 Contact  
