@@ -8,16 +8,16 @@ Bienvenue sur mon GitHub !
 🌟 Compétences
 Je maîtrise plusieurs langages de programmation :
 
-🐍 Python
-🦄 TypeScript
-🔧 C
-⚙️ C++
-🚀 Projets
+🐍 Python 
+🦄 TypeScript 
+🔧 C 
+⚙️ C++ 
+🚀 Projets 
 Je suis toujours à la recherche de nouveaux défis et de projets intéressants. Voici quelques domaines dans lesquels j'ai travaillé :
 
-Développement Web
-Intelligence Artificielle
-Systèmes Embarqués
+Développement Web  
+Intelligence Artificielle  
+projet de tous les genres  
 📫 Contact
 N'hésitez pas à explorer mes dépôts et à me contacter pour toute collaboration !
 
