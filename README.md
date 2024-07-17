@@ -20,7 +20,7 @@ projet de tous les genres
 📫 Contact  
 N'hésitez pas à explorer mes dépôts et à me contacter pour toute collaboration !
 
-[LinkedIn](doc:https://www.linkedin.com/in/andrew-colin-3b49b2241#anchor-links)
+[LinkedIn](https://www.linkedin.com/in/andrew-colin-3b49b2241)  
 [Email](mailto:andrew@cohort42.com)
 
 <!--
