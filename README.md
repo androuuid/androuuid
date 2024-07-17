@@ -17,7 +17,11 @@ Développement Web
 Intelligence Artificielle
 projet de tous les genres
 
-N'hésitez pas à explorer mes dépôts
+📫 Contact  
+N'hésitez pas à explorer mes dépôts et à me contacter pour toute collaboration !
+
+[LinkedIn](doc:https://www.linkedin.com/in/andrew-colin-3b49b2241#anchor-links)
+[Email](mailto:andrew@cohort42.com)
 
 <!--
 **androuuid/androuuid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
